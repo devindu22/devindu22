@@ -17,16 +17,20 @@ A passionate **Software Engineering & Data Science student** dedicated to bridgi
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **AI & Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Cloud & Databases** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **IoT & Networking** | ESP8266, NodeMCU, Arduino IDE, PlatformIO, MQTT, Node-RED, Cisco Packet Tracer, VLAN/VLSM Routing |
-| **Design & Productivity**| Figma, UI/UX Prototyping, Git, GitHub, VS Code |
+| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Web Development** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![ChartJS](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **AI, Data Science & Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black) ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white) |
+| **Cloud & Databases** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **IoT, Virtualization & Net** | ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) ESP8266, NodeMCU, hardware arrays, MQTT protocols, Node-RED, Blynk IoT, Cisco Packet Tracer, VLAN/VLSM Routing |
+| **Design & Productivity Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=flat-square&logo=balsamiq&logoColor=white) Git, GitHub, VS Code, Canvas-Confetti, FontAwesome |
 
 ---
 
 ### 🚀 Featured Projects
+
+#### ⚡ NEXSPARK '25 — Community IT & Cybersecurity Initiative
+* **Description:** Successfully launched and led a high-impact community skill development, IT architecture, and foundational cybersecurity training event at Gurulugomi Maha Vidyalaya, Kalutara North, focusing on accelerating digital literacy and security fundamentals for young students.
+* **Core Domains:** Project Leadership, IT Delivery, Cybersecurity Mentorship, Soft Skill Development
 
 #### 🔄 Lanka E-Loop Innovations
 * **Description:** An enterprise-grade, real-time Operations Control System and Resource Planning (ERP) platform designed to power modern electronic waste collection, raw material processing, and carbon-neutral upcycled manufacturing operations.
@@ -52,9 +56,9 @@ A passionate **Software Engineering & Data Science student** dedicated to bridgi
 * **Description:** A gorgeous frontend modernization and structural reimagining of the legendary, fluidly animated Timely Alarm Clock application.
 * **Tech Stack:** `HTML5`, `Vanilla JavaScript`, `Tailwind CSS`
 
-#### 🌱 HydroSentinel — IoT Smart Irrigation
-* **Description:** An automated micro-irrigation system managing real-time soil moisture telemetry and automated relay pumps using hardware integration.
-* **Tech Stack:** `ESP8266`, `MQTT`, `Node-RED`, `Blynk`
+#### 📡 HydroSentinel — IoT Smart Agriculture for Extreme Environments
+* **Description:** An advanced IoT-based soil moisture monitoring and automated precision irrigation system engineered for controlled environmental agriculture, optimized for conceptual deployment configurations in Martian agricultural simulation units.
+* **Tech Stack:** `ESP8266`, `MQTT Protocols`, `Node-RED Architecture`, `Blynk IoT Ecosystem`, Hardware Sensor Integration
 
 #### 💝 Would You Be My Girlfriend
 * **Description:** A micro-single-page playful web application implementing responsive logic and dynamic canvas animations to create an engaging personal interactive experience.
@@ -77,16 +81,10 @@ A passionate **Software Engineering & Data Science student** dedicated to bridgi
 | :--- | :--- | :--- |
 | **Development Workflow** | ![Git Flow](https://img.shields.io/badge/Workflow-Git--Flow-007ACC?style=flat-square) | Branching, Pull Requests, Code Reviews |
 | **Architecture Preference** | ![MVC & Modular](https://img.shields.io/badge/Architecture-MVC%20%2F%20Modular-brightgreen?style=flat-square) | Clean architecture, OOP, Component isolation |
-| **Database Design** | ![Relational](https://img.shields.io/badge/Database-Relational%20%2F%20SQL-blue?style=flat-square) | Normalization, Query optimization, Indexing |
-| **Project Tracking** | ![Agile Scrum](https://img.shields.io/badge/Methodology-Agile%20%2F%20Scrum-orange?style=flat-square) | Sprint cycles, Issue tracking, Milestones |
+| **Database & Analytics** | ![Relational Data](https://img.shields.io/badge/Data-SQL%20%26%20PowerBI-blue?style=flat-square) | Query optimization, Business Intelligence, Data Pipelines |
+| **Infrastructure Context** | ![Cloud Hybrid](https://img.shields.io/badge/Cloud-GCP%20%2F%20AWS%20%2F%20VMware-orange?style=flat-square) | Virtualized environments, Cloud resources, MLOps |
 
 ---
-
-### 📫 Connect With Me
-
-* 💼 **LinkedIn:** [linkedin.com/in/devindu-malshan](https://www.linkedin.com/in/devindu-malshan-b88b242b9/) 
-* 🌐 **Portfolio Website:** [Explore My Work](https://sparkly-beignet-290a60.netlify.app/#)
-* 📧 **Professional Email:** devindu.m@outlook.com / devindu.nwcv@gmail.com
 
 ### 📊 Codebase Contribution Graph
 
@@ -96,5 +94,12 @@ A passionate **Software Engineering & Data Science student** dedicated to bridgi
 
 ---
 
+### 📫 Connect With Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/devindu-malshan](https://www.linkedin.com/in/devindu-malshan-b88b242b9/) 
+* 🌐 **Portfolio Website:** [Explore My Work](https://sparkly-beignet-290a60.netlify.app/#)
+* 📧 **Professional Email:** devindu.m@outlook.com / devindu.nwcv@gmail.com
+
 ---
+
 > *"Continuous learning is the key to building meaningful technology."*
