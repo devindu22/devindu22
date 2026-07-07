@@ -71,16 +71,14 @@ A passionate **Software Engineering & Data Science student** dedicated to bridgi
 
 ---
 
-### 📊 GitHub Momentum
+### 📊 Codebase Metrics & Development Standards
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devindu22&show_icons=true&theme=transparent&description_lines=3&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devindu22&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devindu22&theme=transparent&hide_border=true" />
-</p>
+| Metric / Focus | Target / Status | Ecosystem Tools |
+| :--- | :--- | :--- |
+| **Development Workflow** | ![Git Flow](https://img.shields.io/badge/Workflow-Git--Flow-007ACC?style=flat-square) | Branching, Pull Requests, Code Reviews |
+| **Architecture Preference** | ![MVC & Modular](https://img.shields.io/badge/Architecture-MVC%20%2F%20Modular-brightgreen?style=flat-square) | Clean architecture, OOP, Component isolation |
+| **Database Design** | ![Relational](https://img.shields.io/badge/Database-Relational%20%2F%20SQL-blue?style=flat-square) | Normalization, Query optimization, Indexing |
+| **Project Tracking** | ![Agile Scrum](https://img.shields.io/badge/Methodology-Agile%20%2F%20Scrum-orange?style=flat-square) | Sprint cycles, Issue tracking, Milestones |
 
 ---
 
@@ -89,6 +87,14 @@ A passionate **Software Engineering & Data Science student** dedicated to bridgi
 * 💼 **LinkedIn:** [linkedin.com/in/devindu-malshan](https://www.linkedin.com/in/devindu-malshan-b88b242b9/) 
 * 🌐 **Portfolio Website:** [Explore My Work](https://sparkly-beignet-290a60.netlify.app/#)
 * 📧 **Professional Email:** devindu.m@outlook.com / devindu.nwcv@gmail.com
+
+### 📊 Codebase Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devindu22&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
 
 ---
 > *"Continuous learning is the key to building meaningful technology."*
