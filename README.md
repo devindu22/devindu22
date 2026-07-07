@@ -100,7 +100,7 @@ A passionate **Software Engineering & Data Science student** dedicated to bridgi
   <a href="https://www.linkedin.com/in/devindu-malshan-b88b242b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://6a4cc1919db3004d08e667d2--astonishing-zuccutto-bc315a.netlify.app/" target="_blank">
+  <a href="https://devindu-malshan-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:devindu.m@outlook.com">
