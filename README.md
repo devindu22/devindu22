@@ -74,19 +74,19 @@ A passionate **Software Engineering & Data Science student** dedicated to bridgi
 ### 📊 GitHub Momentum
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&description_lines=3&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DevinduMalshan&show_icons=true&theme=transparent&description_lines=3&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinduMalshan&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=DevinduMalshan&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/devindu-malshan](https://www.linkedin.com/in/devindu-malshan-b88b242b9/) *(Update with your exact profile slug)*
+* 💼 **LinkedIn:** [linkedin.com/in/devindu-malshan](https://www.linkedin.com/in/devindu-malshan-b88b242b9/) 
 * 🌐 **Portfolio Website:** [Explore My Work](https://sparkly-beignet-290a60.netlify.app/#)
 * 📧 **Professional Email:** devindu.m@outlook.com / devindu.nwcv@gmail.com
 
