@@ -96,10 +96,22 @@ A passionate **Software Engineering & Data Science student** dedicated to bridgi
 
 ### 📫 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/devindu-malshan](https://www.linkedin.com/in/devindu-malshan-b88b242b9/) 
-* 🌐 **Portfolio Website:** [Explore My Work](https://sparkly-beignet-290a60.netlify.app/#)
-* 📧 **Professional Email:** devindu.m@outlook.com / devindu.nwcv@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/devindu-malshan-b88b242b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://sparkly-beignet-290a60.netlify.app/#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:devindu.m@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devindu22&color=00C2FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
 > *"Continuous learning is the key to building meaningful technology."*
