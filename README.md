@@ -60,10 +60,6 @@ A passionate **Software Engineering & Data Science student** dedicated to bridgi
 * **Description:** An advanced IoT-based soil moisture monitoring and automated precision irrigation system engineered for controlled environmental agriculture, optimized for conceptual deployment configurations in Martian agricultural simulation units.
 * **Tech Stack:** `ESP8266`, `MQTT Protocols`, `Node-RED Architecture`, `Blynk IoT Ecosystem`, Hardware Sensor Integration
 
-#### 💝 Would You Be My Girlfriend
-* **Description:** A micro-single-page playful web application implementing responsive logic and dynamic canvas animations to create an engaging personal interactive experience.
-* **Tech Stack:** `HTML5`, `Vanilla JavaScript`, `Tailwind CSS`, `Canvas-Confetti`
-
 ---
 
 ### 📜 Professional Certifications
