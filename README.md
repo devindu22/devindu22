@@ -1,6 +1,7 @@
 # Hi there, I'm Devindu Malshan 👋
 
-A passionate **Software Engineering & Data Science student** dedicated to bridging the gap between robust software development and advanced artificial intelligence. I specialize in building full-stack web applications, engineering smart IoT ecosystems, and training machine learning models to solve real-world industrial and digital problems.
+Data Science / ML Engineer Student who develops intelligent systems that predict problems, optimise decisions, improve operational efficiency, and produce measurable cost savings
+
 
 ---
 
