@@ -94,7 +94,7 @@ Data Science / ML Engineer Student who develops intelligent systems that predict
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/devindu-malshan-b88b242b9/" target="_blank">
+  <a href="https://www.linkedin.com/in/devindu-malshan-palandagama-acharige/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://devindu-malshan-portfolio.netlify.app/" target="_blank">
